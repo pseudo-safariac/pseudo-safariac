@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pseudo-safariac
-- I am a biologist who is interested in using Automation to solve problems that maty or may not be related to the science.
+- I am a biologist who is interested in using Automation to solve problems that may or may not be related to the science.
 - 👀 I’m interested in Python and everything Pythonic.
 - 🌱 I’m currently learning on how to use the Python module Pandas
 - 💞️ I’m looking to collaborate on Data problems
