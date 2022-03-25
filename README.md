@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Data problems, improving my skillset by participating in projects.
 -     I am also open for attachments and internship opportunities that may be available.
 - 📫 How to reach me email: kevinngigi110@gmail.com
+-  https://www.hackerrank.com/kevinngigi110
 
 <!---
 pseudo-safariac/pseudo-safariac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
